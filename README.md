@@ -19,7 +19,6 @@ Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for cre
 ## 💼 Experience
 
 ### Jun 2021 - Present: Quby - Frontend Developer
-![Quby Logo](link-to-quby-logo.png)
 - 🌟 Engineered a web application that attracted more than 25,000 users.
 - 🧑‍🏫 Coached an intern, guiding them in developing and using new and high-end technologies.
 - 🔧 Directed about 3 projects related to the IoT, such as vending machines and remote elevator controls.
@@ -31,7 +30,6 @@ Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for cre
 - 🛠️ Managed 2 different types of version control systems such as Git and Azure.
 
 ### Dec 2019 - May 2021: Datis Tech - Frontend Developer
-![Datis Tech Logo](link-to-datis-tech-logo.png)
 - 👥 Collaborated with 2 back-end developers to develop three Admin dashboard templates.
 - ⚡ Achieved a 40% improvement in website performance by strategically reducing page load times, resulting in enhanced overall site functionality.
 - 🐛 Enhanced one website's quality by promptly addressing bugs through debugging and testing, ensuring robust and seamless user experiences.
@@ -39,7 +37,6 @@ Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for cre
 - 📊 Designed 3 dashboard admin panels for warehouse and distribution functions.
 
 ### Jan 2019 - Dec 2019: yomoBit UG, Württemberg - (Remote) - Frontend Developer
-![yomoBit UG Logo](link-to-yomobit-ug-logo.png)
 - 👨‍🏫 Mentored 2 intern front-end developers in learning and developing projects.
 - 🔍 Conducted comprehensive compatibility testing for applications and websites across various devices and browsers.
 - 💰 Created one financial application powered by two powerful technologies, Angular and Electron, for Windows and macOS.
@@ -47,7 +44,6 @@ Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for cre
 - 🛒 Developed an e-commerce project with an admin dashboard panel using Angular, and implemented an application with Ionic.
 
 ### Jan 2017 - Jan 2019: NilaSoft - Frontend Developer
-![NilaSoft Logo](link-to-nilasoft-logo.png)
 - 🎨 Collaborated with a UI/UX designer and 2 front-end developers to seamlessly integrate visually captivating and intuitive user interfaces.
 - 🔄 Coordinated with three backend developers to implement changes and conduct testing for more than 2 websites.
 - 🔗 Integrated third-party APIs and libraries, enhancing website functionality and optimizing user experience, resulting in a 25% increase in customer engagement.
