@@ -55,10 +55,10 @@ Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for cre
 
 ## 📜 Certificates
 
-- **MERN stack:** Udemy
-- **React + Redux:** SoloLearn
-- **Javascript:** SoloLearn
-- **HTML:** SoloLearn
+- **[MERN stack](https://www.udemy.com/certificate/UC-40ec327d-eb74-42a0-ad0b-091b347af4ad/):** Udemy
+- **[React + Redux](https://www.sololearn.com/Certificate/1097-8419027/pdf/):** SoloLearn
+- **[Javascript](https://www.sololearn.com/Certificate/1024-8419027/jpg):** SoloLearn
+- **[HTML](https://www.sololearn.com/Certificate/1014-8419027/pdf/):** SoloLearn
 
 ## 🌐 Languages
 
