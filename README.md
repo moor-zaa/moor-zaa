@@ -5,6 +5,11 @@
 [![Email](https://img.shields.io/badge/Email-red.svg)](mailto:mortezaalipour1777@gmail.com)
 [![Website](https://img.shields.io/badge/Website-yellow.svg)](https://mortezaalipour.ir)
 
+
+## About Me
+
+Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for creating responsive and user-friendly web interfaces. I have a strong background in engineering web applications that enhance user experiences and drive engagement. I'm always eager to learn new technologies and collaborate with teams to bring innovative ideas to life.
+
 ## Skills
 
 - **Frontend Development:** React.js, Next.js, Javascript, HTML/CSS, Redux, Thanstack, React-Testing-Library, Tailwind, Bootstrap, Material UI, Styled-Components, Storybook, jQuery, Jest, Angular, Figma
