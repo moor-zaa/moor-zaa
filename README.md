@@ -24,7 +24,7 @@ Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for cre
 - **[Javascript](https://www.sololearn.com/Certificate/1024-8419027/jpg):** SoloLearn
 - **[HTML](https://www.sololearn.com/Certificate/1014-8419027/pdf/):** SoloLearn
 
-## 🌐 Languages
+## Languages
 
 - **English:** C1
 - **Persian:** Native
