@@ -27,7 +27,7 @@ Hello! I'm Mori Alipour, a passionate Frontend Developer with a knack for creati
 ## Languages
 
 - **English:** C1
-- **Persian:** Native
+
 
 ---
 
