@@ -1,4 +1,4 @@
-# Morteza Alipour - Frontend Developer
+# Mori Alipour - Frontend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/mortezaalipour/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg)](https://t.me/moor_za)
@@ -7,7 +7,7 @@
 
 ## 👋 About Me 
 
-Hello! I'm Morteza Alipour, a passionate Frontend Developer with a knack for creating responsive and user-friendly web interfaces. I have a strong background in engineering web applications that enhance user experiences and drive engagement. I'm always eager to learn new technologies and collaborate with teams to bring innovative ideas to life.
+Hello! I'm Mori Alipour, a passionate Frontend Developer with a knack for creating responsive and user-friendly web interfaces. I have a strong background in engineering web applications that enhance user experiences and drive engagement. I'm always eager to learn new technologies and collaborate with teams to bring innovative ideas to life.
 
 ## 🚀 Skills
 
