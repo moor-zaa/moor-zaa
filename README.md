@@ -1,9 +1,9 @@
 # Mori Alipour - Frontend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/mortezaalipour/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/morialipour/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg)](https://t.me/moor_za)
-[![Email](https://img.shields.io/badge/Email-red.svg)](mailto:mortezaalipour1777@gmail.com)
-[![Website](https://img.shields.io/badge/Website-yellow.svg)](https://mortezaalipour.ir)
+[![Email](https://img.shields.io/badge/Email-red.svg)](mailto:mori.alipour95@gmail.com)
+[![Website](https://img.shields.io/badge/Website-yellow.svg)](https://mori-alipour.vercel.app)
 
 ## 👋 About Me 
 
