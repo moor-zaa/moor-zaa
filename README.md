@@ -31,4 +31,4 @@ Hello! I'm Mori Alipour, a passionate Frontend Developer with a knack for creati
 
 ---
 
-Thank you for taking the time to check out my resume. If you'd like to get in touch, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mortezaalipour/), [Telegram](https://t.me/moor_za), or [Email](mailto:mortezaalipour1777@gmail.com). Let's build something amazing together! 
+Thank you for taking the time to check out my resume. If you'd like to get in touch, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mortezaalipour/), [Telegram](https://t.me/moor_za), or [Email](mailto:mori.alipour95@gmail.com). Let's build something amazing together! 
